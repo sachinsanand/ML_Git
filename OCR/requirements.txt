@@ -3,3 +3,4 @@ ipykernel
 pillow
 pytesseract
 opencv-python
+matplotlib
